@@ -1,4 +1,4 @@
-# ToopSploit
+# ToopSternal
 A small external tool for Roblox with a clean UI and stable work.
 
 What it is
