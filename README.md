@@ -9,8 +9,8 @@ Features
 ESP: boxes, names, health, snaplines, skeleton
 Aimbot: FOV, priority distance or crosshair, prediction, sticky
 Movement: WalkSpeed, JumpPower, HipHeight
-Other: Noclip, Fullbright, Anti AFK, hotkeys, tp to waypoints/players
-(and some new functions from new updates) 
+Other: Noclip, Fullbright, hotkeys, tp to waypoints/players
+(and many new functions from new updates) 
 
 Games supported: 
 
@@ -59,9 +59,9 @@ Notes
 Windows only
 Get the EXE from Releases
 Run the game
-Run ToopSploit.exe
+Run ToopSternal.exe
 
 Usage
 Menu key: Insert
 Set hotkeys in the Hotkeys tab
-Config saves automatically (you can delete it in debug tab)
+Config saves automatically (you can change that from new update)
