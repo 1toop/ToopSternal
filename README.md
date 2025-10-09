@@ -55,12 +55,6 @@ UNIVERSAL MODE
    - Standard Roblox games
    - Every Function works
 
-Notes
-Windows only
-Get the EXE from Releases
-Run the game
-Run ToopSternal.exe
-
 Usage
 Menu key: Insert
 Set hotkeys in the Hotkeys tab
