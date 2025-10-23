@@ -23,7 +23,7 @@ BLACKHAWK RESCUE MISSION 5
 
 PHANTOM FORCES
    - ESP: Players
-   - Team check: Not Working
+   - Team check: Works (choose team manually)
 
 BAD BUSINESS
    - ESP: Players  
