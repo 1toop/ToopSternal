@@ -1,9 +1,9 @@
 # ToopSternal
 A small external tool for Roblox with a clean UI and stable work.
-Join my discord server! https://discord.gg/BcnxDQa32N
+Join my discord server! discord.gg/BcnxDQa32N
 
 What it is
-Lightweight external with ESP, aimbot, movement things, and other stuff. Simple and fast.
+External for roblox. Simple and fast.
 
 Features
 ESP: boxes, names, health, snaplines, skeleton
