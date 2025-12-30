@@ -1,9 +1,11 @@
-# ToopSternal
-A small external tool for Roblox with a clean UI and stable work.
-Join my discord server! discord.gg/BcnxDQa32N
+External for roblox with cute ui and stable work.
 
-What it is
-External for roblox. Simple and fast.
+**download: https://github.com/1toop/ToopSternal/releases/download/ToopSternal/ToopSternal.exe**
+
+Usage:
+Menu key: Insert
+Set hotkeys in the Hotkeys tab
+Config saves automatically
 
 Features
 ESP: boxes, names, health, snaplines, skeleton
@@ -54,8 +56,3 @@ TRIDENT SURVIVAL
 UNIVERSAL MODE
    - Standard Roblox games
    - Every Function works
-
-Usage
-Menu key: Insert
-Set hotkeys in the Hotkeys tab
-Config saves automatically (you can change that from new update)
