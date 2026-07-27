@@ -6,5 +6,4 @@ External for roblox with cute ui and stable work.
 
 Usage:
 Menu key: Insert
-Set hotkeys in the Hotkeys tab
 Config saves automatically
