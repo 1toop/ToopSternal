@@ -7,3 +7,5 @@ External for roblox with cute ui and stable work.
 Usage:
 Menu key: Insert
 Config saves automatically
+
+<img width="1122" height="583" alt="изображение" src="https://github.com/user-attachments/assets/c30a7f35-4b1e-4cdd-90e1-477571e6f6ce" />
